@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/raushan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan kumar" height="30" width="40" /></a>
 <a href="https://fb.com/stylo raushan chandravanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stylo raushan chandravanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/stylo_raushan_the_dark__lover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stylo_raushan_the_dark__lover" height="30" width="40" /></a>
+<a href="https://www.instagram.com/stylo_raushan_the_dark__lover/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stylo_raushan_the_dark__lover" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
