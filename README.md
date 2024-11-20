@@ -91,10 +91,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=styloraushan&show_icons=true&locale=en&layout=compact" alt="styloraushan" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=styloraushan&" alt="styloraushan" />
-</p>
-
 
 ### Visitors Count:
 <p align="center">
