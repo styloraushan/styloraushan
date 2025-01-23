@@ -125,10 +125,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=styloraushan&" alt="styloraushan" />
 </p>
 
- 
-
-
-![snake gif](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
 
 
 ### Visitors Count:
